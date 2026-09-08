@@ -51,3 +51,12 @@
 00:34:00.838 [main] INFO  api.test.userTest - ******* user updated ********
 00:34:00.843 [main] INFO  api.test.userTest - ******* user deleting ********
 00:34:02.333 [main] INFO  api.test.userTest - ******* user deleted ********
+14:23:26.501 [main] DEBUG api.test.userTest - debug
+14:23:26.574 [main] INFO  api.test.userTest - ******* user creating ********
+14:23:30.660 [main] INFO  api.test.userTest - ******* user created ********
+14:23:30.670 [main] INFO  api.test.userTest - ******* user retriving ********
+14:23:32.195 [main] INFO  api.test.userTest - ******* user retrieved ********
+14:23:32.198 [main] INFO  api.test.userTest - ******* user updating ********
+14:23:35.146 [main] INFO  api.test.userTest - ******* user updated ********
+14:23:35.150 [main] INFO  api.test.userTest - ******* user deleting ********
+14:23:36.674 [main] INFO  api.test.userTest - ******* user deleted ********
