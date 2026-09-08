@@ -1,0 +1,53 @@
+16:46:53.243 [main] INFO  api.test.userTest - ******* user creating ********
+16:46:57.342 [main] INFO  api.test.userTest - ******* user created ********
+16:46:57.377 [main] INFO  api.test.userTest - ******* user retriving ********
+16:46:58.939 [main] INFO  api.test.userTest - ******* user retrieved ********
+16:46:58.946 [main] INFO  api.test.userTest - ******* user updating ********
+16:47:01.883 [main] INFO  api.test.userTest - ******* user updated ********
+16:47:01.889 [main] INFO  api.test.userTest - ******* user deleting ********
+16:47:03.379 [main] INFO  api.test.userTest - ******* user deleted ********
+16:50:20.851 [main] DEBUG api.test.userTest - debug
+16:50:20.876 [main] INFO  api.test.userTest - ******* user creating ********
+16:50:25.036 [main] INFO  api.test.userTest - ******* user created ********
+16:50:25.058 [main] INFO  api.test.userTest - ******* user retriving ********
+16:50:26.604 [main] INFO  api.test.userTest - ******* user retrieved ********
+16:50:26.610 [main] INFO  api.test.userTest - ******* user updating ********
+16:50:29.629 [main] INFO  api.test.userTest - ******* user updated ********
+16:50:29.634 [main] INFO  api.test.userTest - ******* user deleting ********
+16:50:31.189 [main] INFO  api.test.userTest - ******* user deleted ********
+23:56:04.851 [main] DEBUG api.test.userTest - debug
+23:56:04.912 [main] INFO  api.test.userTest - ******* user creating ********
+23:56:09.090 [main] INFO  api.test.userTest - ******* user created ********
+23:56:09.106 [main] INFO  api.test.userTest - ******* user retriving ********
+23:56:10.653 [main] INFO  api.test.userTest - ******* user retrieved ********
+23:56:10.661 [main] INFO  api.test.userTest - ******* user updating ********
+23:56:13.732 [main] INFO  api.test.userTest - ******* user updated ********
+23:56:13.737 [main] INFO  api.test.userTest - ******* user deleting ********
+23:56:15.232 [main] INFO  api.test.userTest - ******* user deleted ********
+00:18:05.697 [main] DEBUG api.test.userTest - debug
+00:18:05.711 [main] INFO  api.test.userTest - ******* user creating ********
+00:18:09.930 [main] INFO  api.test.userTest - ******* user created ********
+00:18:09.947 [main] INFO  api.test.userTest - ******* user retriving ********
+00:18:11.587 [main] INFO  api.test.userTest - ******* user retrieved ********
+00:18:11.591 [main] INFO  api.test.userTest - ******* user updating ********
+00:18:14.644 [main] INFO  api.test.userTest - ******* user updated ********
+00:18:14.648 [main] INFO  api.test.userTest - ******* user deleting ********
+00:18:16.176 [main] INFO  api.test.userTest - ******* user deleted ********
+00:20:58.679 [main] DEBUG api.test.userTest - debug
+00:20:58.694 [main] INFO  api.test.userTest - ******* user creating ********
+00:21:02.748 [main] INFO  api.test.userTest - ******* user created ********
+00:21:02.765 [main] INFO  api.test.userTest - ******* user retriving ********
+00:21:04.262 [main] INFO  api.test.userTest - ******* user retrieved ********
+00:21:04.266 [main] INFO  api.test.userTest - ******* user updating ********
+00:21:07.261 [main] INFO  api.test.userTest - ******* user updated ********
+00:21:07.264 [main] INFO  api.test.userTest - ******* user deleting ********
+00:21:08.729 [main] INFO  api.test.userTest - ******* user deleted ********
+00:33:51.902 [main] DEBUG api.test.userTest - debug
+00:33:51.915 [main] INFO  api.test.userTest - ******* user creating ********
+00:33:56.214 [main] INFO  api.test.userTest - ******* user created ********
+00:33:56.227 [main] INFO  api.test.userTest - ******* user retriving ********
+00:33:57.764 [main] INFO  api.test.userTest - ******* user retrieved ********
+00:33:57.768 [main] INFO  api.test.userTest - ******* user updating ********
+00:34:00.838 [main] INFO  api.test.userTest - ******* user updated ********
+00:34:00.843 [main] INFO  api.test.userTest - ******* user deleting ********
+00:34:02.333 [main] INFO  api.test.userTest - ******* user deleted ********
